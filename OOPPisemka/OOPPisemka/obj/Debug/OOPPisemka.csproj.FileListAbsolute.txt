@@ -1,0 +1,10 @@
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\bin\Debug\OOPPisemka.exe.config
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\bin\Debug\OOPPisemka.exe
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\bin\Debug\OOPPisemka.pdb
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.csprojAssemblyReference.cache
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.Form1.resources
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.Properties.Resources.resources
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.csproj.GenerateResource.cache
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.csproj.CoreCompileInputs.cache
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.exe
+G:\Programování\OOP----------------------\OOPPisemka\OOPPisemka\obj\Debug\OOPPisemka.pdb
